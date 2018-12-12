@@ -32,6 +32,7 @@ for j in range(0,3):
 
 blanc = [248,248,248]
 
+
 while running:
     if y == 7:
         ySens = -1
